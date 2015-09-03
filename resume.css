@@ -1,20 +1,20 @@
 @font-face {
   font-family: EB Garamond;
-  src: url('/fonts/EB_Garamond/EBGaramond-Regular.ttf');
+  src: url('../fonts/EB_Garamond/EBGaramond-Regular.ttf');
 }
 @font-face {
   font-family: PT Serif;
-  src: url('/fonts/PT_Serif/PT_Serif-Web-Regular.ttf');
+  src: url('../fonts/PT_Serif/PT_Serif-Web-Regular.ttf');
 }
 @font-face {
   font-family: PT Serif;
   font-style: italic;
-  src: url('/fonts/PT_Serif/PT_Serif-Web-Italic.ttf');
+  src: url('../fonts/PT_Serif/PT_Serif-Web-Italic.ttf');
 }
 @font-face {
   font-family: PT Serif;
   font-weight: bold;
-  src: url('/fonts/PT_Serif/PT_Serif-Web-Bold.ttf');
+  src: url('../fonts/PT_Serif/PT_Serif-Web-Bold.ttf');
 }
 
 

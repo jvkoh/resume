@@ -113,10 +113,26 @@ ul.plain-list {
 }
 
 ul.plain-list li {
-  margin-bottom: 2px;
+  margin-bottom: 4px;
 }
 
-@media handheld and (max-width: 800px), screen and (max-device-width: 800px) {
+@media handheld and (max-width: 640px), screen and (max-device-width: 640px) {
+
+  h1 {
+    font-family: 'EB Garamond', serif;
+    font-weight: normal;
+    font-size: 48px;
+    letter-spacing: 2px;
+    line-height: 64px;
+  }
+
+  div.entry-wrapper {
+    margin: 10px 10px 20px;
+  }
+
+  div.entry-text {
+    margin: 0 0 0 20px;
+  }
 
   div.entry-title {
     float: none;
